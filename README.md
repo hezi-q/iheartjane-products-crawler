@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# iheartjane-products-crawler
-=======
-# IheartJane Brands and Dispensary Scrapers
 Install requirements from requirements.txt file with command:
 pip3 install -r requirements.txt
 
