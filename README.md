@@ -36,4 +36,3 @@ output file: iheartjane_dispensary.jsonl
 ## Possible Errors
 1: Failed to fetch store IDS: Probable cause can be wrong API key.
 2: ProxyError: Probable cause can be wrong API key.
->>>>>>> b278a0c (Initial commit)
