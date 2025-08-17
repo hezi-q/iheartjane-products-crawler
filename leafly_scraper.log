@@ -1,0 +1,13 @@
+2025-05-21 04:22:39,499 [INFO] Starting scraping process...
+2025-05-21 04:22:43,665 [ERROR] Failed to fetch brand IDs: HTTPSConnectionPool(host='search.iheartjane.com', port=443): Max retries exceeded with url: /1/indexes/menu-products-production/query (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+2025-05-21 04:33:09,079 [INFO] Starting scraping process...
+2025-05-21 04:33:15,706 [INFO] Processing brand: Wana
+2025-05-21 04:33:15,787 [INFO] Processing brand: WYLD
+2025-05-21 04:33:15,791 [INFO] Processing brand: Batch
+2025-05-21 04:33:15,845 [INFO] Processing brand: Airo Brands
+2025-05-21 04:33:15,863 [INFO] Processing brand: 710 Labs
+2025-05-21 04:33:15,892 [INFO] Processing brand: Binske
+2025-05-21 04:33:15,898 [INFO] Processing brand: Keef
+2025-05-21 04:33:15,909 [INFO] Processing brand: Natty Rems
+2025-05-21 04:33:15,944 [INFO] Processing brand: Green Dot Labs
+2025-05-21 04:33:15,990 [INFO] Processing brand: 
